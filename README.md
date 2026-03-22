@@ -1,32 +1,48 @@
 # Parrot Card Game - Driven Bootcamp 🦜🎴
 
-## Descrição 📝
-Este projeto é um jogo da memória temático de papagaios desenvolvido durante o curso da Driven. O objetivo é encontrar todos os pares de cartas no menor tempo possível. O jogo foi construído com HTML, CSS e JavaScript, explorando manipulação do DOM e eventos interativos.  
+## Description 📝
 
-## Tecnologias Utilizadas 🛠️
-- HTML5  
-- CSS3  
-- JavaScript (DOM, eventos, lógica de jogo)  
-- Google Fonts  
-- Git e GitHub  
+This project is a parrot-themed memory card game developed during the Driven course. The goal is to find all matching pairs of cards in the shortest time possible. Built with HTML, CSS and JavaScript, exploring DOM manipulation and interactive events.
 
-## Funcionalidades 🚀
-- Embaralhamento aleatório das cartas a cada partida  
-- Mecânica de seleção de cartas (virar e comparar pares)  
-- Contagem de tempo para finalizar o jogo  
-- Animação ao virar as cartas  
+🔗 **Live Demo:** [https://projeto-parrot-card-game.vercel.app/]
 
-## Estrutura de Arquivos 📂
+---
+
+## Tech Stack 🛠️
+
+- HTML5
+- CSS3
+- JavaScript (DOM, events, game logic)
+- Google Fonts
+- Git & GitHub
+
+---
+
+## Features 🚀
+
+- Random card shuffling on every match
+- Card selection mechanic (flip and compare pairs)
+- Timer to complete the game
+- Flip animation on cards
+
+---
+
+## File Structure 📂
+
 ```bash
 /
-├── index.html # Estrutura principal do jogo
-├── style.css # Estilização do layout e animações
-├── script.js # Lógica do jogo e manipulação do DOM
-├── /assets # Imagens das cartas e ícones
+├── index.html   # Main game structure
+├── style.css    # Layout styling and animations
+├── script.js    # Game logic and DOM manipulation
+├── /assets      # Card images and icons
 └── README.md
 ```
-## Melhorias Futuras 🔮
-- Adicionar um placar de recordes  
-- Implementar níveis de dificuldade  
-- Criar efeitos sonoros para interações  
-- Melhorar a responsividade para dispositivos móveis  
+
+---
+
+## Future Improvements 🔮
+
+🔹 Add a high score leaderboard  
+🔹 Implement difficulty levels  
+🔹 Create sound effects for interactions  
+🔹 Improve responsiveness for mobile devices
